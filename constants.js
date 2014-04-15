@@ -1,9 +1,0 @@
-
-var Params = {
-
-	SENDER_ID : 'AIzaSyA7jY_TGnF-xfwucF2eN3O5savqFTtu6II',
-	DEFAULT_REGISTERED_ID : 'APA91bHsNFy12HeZlXXo3jHVVaW2ZNd1QqwexiTANRaOXThwbvUH7BeWoO-JDzaqOLdUJ4Qw_m_YTTMRI5EznUG0yY_Zg7rOkvPGXVZaBBBh88qoChTh0h4ZNYVQgFnuQfZ1IjMRtGlc8vmXTf67CE7WGrmhg1oas0qZSLRjLxTo8zieEmC9Etw'
-	
-};
-
-module.exports = Params;
