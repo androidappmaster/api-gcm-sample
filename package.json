@@ -1,0 +1,17 @@
+{
+  "name": "push-api",
+  "version": "0.1.0",
+  "description": "Push notifications",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+  	"express": "3.x",
+  	"body-parser": "1.0.x",
+  	"node-gcm": "0.9.x"
+  },
+  "author": "Appmaster",
+  "license": "ISC"
+}
