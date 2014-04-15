@@ -9,7 +9,7 @@ var Params = require('constants');
 
 var gcm = require('node-gcm');
 // Server API key
-var sender = new gcm.Sender('AIzaSyA7jY_TGnF-xfwucF2eN3O5savqFTtu6II');
+var sender = new gcm.Sender('yourServerApiKey');
 var registrationIds = [];
 
 // Routes
